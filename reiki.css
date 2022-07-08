@@ -50,6 +50,14 @@ a:active {
     width: 150px;
     /* margin-top: 30px;
     margin-left: 40%; */
+    padding-top: 20px;
+}
+
+.container21 {
+    width: 450px;
+    display: flex;
+    margin: auto;
+    padding-top: 20px;
 }
 
 .headerpic {
